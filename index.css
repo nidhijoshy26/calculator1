@@ -1,0 +1,182 @@
+body{
+    background-color: turquoise;
+}
+h1{
+    text-align: center;
+    margin-top: 140px;
+    color: white;
+}
+input{
+    border-color: transparent;
+}
+
+#result{
+    margin-top: 10px;
+    margin-left: 515px;
+    padding-top: 26px;
+    padding-left: 27px;
+    padding-right: 28px;
+    padding-bottom: 26px;
+    border-radius: 6px;
+}
+#Clear{
+
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px;
+    background-color: red;
+    color: white;
+}
+
+#one{
+    margin-top: 4px;
+    margin-left: 515px;
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px;   
+}
+
+#two{
+
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px; 
+}
+
+#three{
+
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px; 
+}
+
+#plus{
+
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px; 
+}
+
+#four{
+
+    margin-top: 4px;
+    margin-left: 515px;
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px;  
+}
+
+#five{
+
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px;
+}
+
+#six{
+
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px;  
+}
+
+#minus{
+
+    padding-top: 26px;
+    padding-left: 34px;
+    padding-right: 34px;
+    padding-bottom: 26px;  
+    border-radius: 6px; 
+}
+
+#seven{
+
+    margin-top: 4px;
+    margin-left: 515px;
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px; 
+}
+
+#eight{
+
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px; 
+}
+
+#nine{
+
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px;   
+}
+
+#multiply{
+
+    padding-top: 26px;
+    padding-left: 34px;
+    padding-right: 34px;
+    padding-bottom: 26px;  
+    border-radius: 6px;  
+}
+
+#divide{
+
+    margin-top: 4px;
+    margin-left: 515px;
+    padding-top: 26px;
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-bottom: 26px;  
+    border-radius: 6px;
+}
+
+#zero{
+
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px; 
+}
+
+#point{
+
+    padding-top: 26px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 26px;  
+    border-radius: 6px;   
+}
+
+#equals{
+
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 26px;  
+    border-radius: 6px;  
+}
